@@ -1,0 +1,2 @@
+# contract
+Kavoge Contract code
